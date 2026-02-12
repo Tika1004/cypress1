@@ -1,6 +1,6 @@
 //Edit account details
 
-describe('Automation Test Store – Account Tests', () => {
+describe('Automation Test Store', () => {
 
   it('Edit account details', () => {
     cy.login('tika01', 'tika.01');
