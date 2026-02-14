@@ -1,0 +1,16 @@
+{
+  "firstname": "Tika",
+  "lastname": "Bitsadze",
+  "email": "biwadzetika@gmail.com",
+  "address1": "meskhishvili II",
+  "city": "totnes",
+  "state": "Devon",
+  "zipcode": "000",
+  "country": "United Kingdom",
+  "loginname": "tika000",
+  "password": "tika123",
+  "phone": "500000000",
+  "incorrectEmail": "wrongtika@gmail.com",
+  "incorrectPassword": "wrong123"
+}
+
